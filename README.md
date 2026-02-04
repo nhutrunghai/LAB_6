@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-**Họ tên: Nhữ Trung Hải | Lớp: D18CNPM2 | MSV: 23810310247**
+<h1 align="center">Họ tên: Nhữ Trung Hải | Lớp: D18CNPM2 | MSV: 23810310247</h1>
 
 ## About Laravel
 
